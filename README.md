@@ -9,7 +9,7 @@ This is an APIView code which basically converts the HTML code to a pdf response
 ## Input
 This whole code will be passed as an request
 For Example:-
-		```html
+```html
            <Html><Body>
 		<h1> So this will convert this html file to a pdf which will contain the rendered version of this code.</h1>
 		</Body></Html>
