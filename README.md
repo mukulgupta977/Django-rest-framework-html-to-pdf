@@ -7,7 +7,7 @@
 This is an APIView code which basically converts the HTML code to a pdf response.
 
 ## Input
-This whole code will be passed as an request
+This whole code will be passed as a request
 For Example:-
 ```html
            <Html><Body>
